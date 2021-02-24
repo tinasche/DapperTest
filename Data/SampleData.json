@@ -1,0 +1,51 @@
+[
+    {
+        "movieId": 1,
+        "title": "Transformers",
+        "director": "Michael Bay",
+        "genre": "Action",
+        "releaseYear": "2012-10-10T00:00:00"
+    },
+    {
+        "movieId": 3,
+        "title": "Star Wars: Revenge of the Sith",
+        "director": "George Lucas",
+        "genre": "fantasy",
+        "releaseYear": "1984-06-02T00:00:00"
+    },
+    {
+        "movieId": 4,
+        "title": "Star Wars: A New Hope",
+        "director": "George Lucas",
+        "genre": "fantasy",
+        "releaseYear": "1982-04-24T00:00:00"
+    },
+    {
+        "movieId": 5,
+        "title": "Tenet",
+        "director": "Christopher Nolan",
+        "genre": "Action",
+        "releaseYear": "2020-10-14T00:00:00"
+    },
+    {
+        "movieId": 6,
+        "title": "Man of Steel",
+        "director": "Zack Synder",
+        "genre": "Thriller",
+        "releaseYear": "2016-02-10T00:00:00"
+    },
+    {
+        "movieId": 7,
+        "title": "Man of Steel",
+        "director": "Zack Synder",
+        "genre": "Thriller",
+        "releaseYear": "2016-02-10T00:00:00"
+    },
+    {
+        "movieId": 8,
+        "title": "Man of Steel",
+        "director": "Zack Synder",
+        "genre": "Thriller",
+        "releaseYear": "2016-02-10T00:00:00"
+    }
+]
